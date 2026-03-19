@@ -19,8 +19,11 @@ Systematic Jewish genealogy research using [JewishGen](https://www.jewishgen.org
 ## Installation
 
 ```bash
-# Install the plugin
-claude plugin add holocaustio/agent-plugins/plugins/genealogy-research
+# 1. Add the marketplace (one-time)
+/plugin marketplace add holocaustio/agent-plugins
+
+# 2. Install the plugin
+/plugin install genealogy-research@holocaustio
 ```
 
 ## Requirements
