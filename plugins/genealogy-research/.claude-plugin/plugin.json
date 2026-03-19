@@ -1,0 +1,24 @@
+{
+  "name": "genealogy-research",
+  "version": "1.0.0",
+  "description": "Jewish genealogy research — systematic ancestry tracing with team-based parallel research across 10+ databases",
+  "author": {
+    "name": "Holocaust IO",
+    "email": "deanla@gmail.com"
+  },
+  "repository": "https://github.com/holocaustio/agent-plugins",
+  "license": "MIT",
+  "keywords": [
+    "genealogy",
+    "jewish",
+    "jewishgen",
+    "holocaust",
+    "family-tree",
+    "ancestry"
+  ],
+  "homepage": "https://github.com/holocaustio/agent-plugins/tree/main/plugins/genealogy-research",
+  "skills": [
+    "skills/research-methodology",
+    "skills/data-sources"
+  ]
+}

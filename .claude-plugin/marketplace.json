@@ -1,0 +1,20 @@
+{
+  "name": "holocaustio",
+  "owner": {
+    "name": "Holocaust IO",
+    "email": "deanla@gmail.com"
+  },
+  "metadata": {
+    "description": "Claude Code plugins for Holocaust research and genealogy",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "genealogy-research",
+      "source": "./plugins/genealogy-research",
+      "description": "Systematic Jewish genealogy research using JewishGen and 10+ databases",
+      "version": "1.0.0"
+    }
+  ]
+}
