@@ -16,9 +16,5 @@
     "family-tree",
     "ancestry"
   ],
-  "homepage": "https://github.com/holocaustio/agent-plugins/tree/main/plugins/genealogy-research",
-  "skills": [
-    "skills/research-methodology",
-    "skills/data-sources"
-  ]
+  "homepage": "https://github.com/holocaustio/agent-plugins/tree/main/plugins/genealogy-research"
 }
